@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="table2">bdeb0147b7200010cf70e2b9de11a915</application>
+        <filter/>
+        <name>table2s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>sn_app9.table2_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-22 20:07:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2c6d42dfb7240010cf70e2b9de11a9ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>table2s</sys_name>
+        <sys_package display_value="app9" source="sn_app9">97fc773ab7200010cf70e2b9de11a93d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app9">97fc773ab7200010cf70e2b9de11a93d</sys_scope>
+        <sys_update_name>sys_ui_module_2c6d42dfb7240010cf70e2b9de11a9ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-22 20:07:48</sys_updated_on>
+        <table>sn_app9_table2</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
